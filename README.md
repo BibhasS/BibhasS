@@ -30,6 +30,11 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 </p>
 
+## 📊 Most Used Languages
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BibhasS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibhasS&langs_count=10&layout=compact&theme=algolia&custom_title=Most%20Used%20Languages" height="192px"/></a>
+</p>
+
 <br/>
 
 ## 📊 GitHub Stats (Expand to View) 
