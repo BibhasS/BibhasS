@@ -44,7 +44,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BibhasS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BibhasS&show_icons=true&count_private=true&theme=algolia&custom_title=BibhasS's%20stats" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BibhasS' Github Stats" src="https://github-readme-stats.vercel.app/api?username=BibhasS&show_icons=true&count_private=true&theme=algolia&custom_title=BibhasS'%20stats" height="192px"/></a>
 <br/>
   </p>
 </details>
@@ -53,7 +53,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/BibhasS"><img alt="BibhasS's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BibhasS&custom_title=BibhasS's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/BibhasS"><img alt="BibhasS' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BibhasS&custom_title=BibhasS'%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
