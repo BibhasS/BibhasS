@@ -30,24 +30,6 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 </p>
 
-### 👉 Frameworks
-<p align="left">
-	<a href= https://github.com/?tab=repositories&q=&type=&language=flask&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
-</p>
-
-### 👉 Developer Tools
-<p align="left">
-	<a href= https://github.com/?tab=repositories&q=&type=&language=vscode&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vscode.svg'> </a>
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=intellij&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/intellij.svg'> </a>
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=xna&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xna.svg'> </a>
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=roblox&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/roblox.svg'> </a>
-</p>
-
 <br/>
 
 ## 📊 GitHub Stats (Expand to View) 
