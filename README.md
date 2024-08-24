@@ -13,10 +13,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing a **Computer Science degree** at **[The University of Texas at Dallas](https://www.utdallas.edu/)**.
-- 🌱 I’m currently learning **Machine Learning** and **Cloud Computing**.
 - 💡 I love to explore **new technologies** and constantly **sharpen my skills**.
-- 💻 Most of my projects are available on [GitHub](https://github.com/BibhasS).
-- 🎯 My goal is to contribute to open source projects and develop tools that make life easier for developers.
+- 🎯 My goal is to contribute to open-source projects and develop tools that make life easier for developers.
 - ⚡ Fun fact: I enjoy working on **creative projects** that blend technology with art!
 
 ## 🛠️ My Toolbox
