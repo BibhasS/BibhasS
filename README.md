@@ -48,10 +48,15 @@
     &emsp;
     <a href="https://github.com/"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/></a>
     &emsp;
-    <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-    &emsp;
     <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+    &emsp;
+    <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+    &emsp;
+    <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/></a>
+    &emsp;
+    <a href="https://www.netlify.com/"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/></a>
 </p>
+
 
 ## 🔥 GitHub Stats
 
