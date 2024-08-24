@@ -11,7 +11,7 @@
 ## 🛠️ Skills
 
 ### 👉 Programming Languages
-<p align="left"> 
+<p align="center"> 
 <a href= https://github.com/?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 	&emsp;
 <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -22,7 +22,7 @@
 </p>
 
 ### 👉 Website Development
-<p align="left"> 
+<p align="center"> 
   <a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 	&emsp;
 <a href= https://github.com/?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
@@ -39,7 +39,6 @@
 
 ## 📊 GitHub Stats (Expand to View) 
 
-
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -49,13 +48,11 @@
   </p>
 </details>
 
-
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/BibhasS"><img alt="BibhasS' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BibhasS&custom_title=BibhasS'%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
 </details>
 
 <br/>
