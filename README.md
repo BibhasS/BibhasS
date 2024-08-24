@@ -16,6 +16,7 @@
 - 💡 I love to explore **new technologies** and constantly **sharpen my skills**.
 - 🎯 My goal is to contribute to open-source projects and develop tools that make life easier for developers.
 - ⚡ Fun fact: I enjoy working on **creative projects** that blend technology with art!
+- 🏀 I enjoy playing sports, especially **basketball** and **volleyball**.
 
 ## 🛠️ My Toolbox
 
