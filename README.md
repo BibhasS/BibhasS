@@ -1,7 +1,9 @@
 <h1 align="center">Hi there! I'm Bibhas. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&pause=1000&center=true&vCenter=true&width=500&height=55&lines=Computer+Science+Student+%40+UT+Dallas;Full-stack+Web+Developer;Passionate+Learner+%26+Creator;Always+Curious+and+Evolving" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Lato&pause=1000&center=true&vCenter=true&width=500&height=55&lines=CIS+Student+%40+UT+Dallas;Minor+in+Computer+Science;Full-stack+Web+Developer;Passionate+Learner+%26+Creator;Always+Curious+and+Evolving" alt="Typing SVG" />
+    </a>
 </p>
 
 <p align="center">
@@ -12,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing a **Computer Science degree** at **[The University of Texas at Dallas](https://www.utdallas.edu/)**.
-- 💡 I love to explore **new technologies** and constantly **sharpen my skills**.
-- 🎯 My goal is to contribute to open-source projects and develop tools that make life easier for developers.
-- ⚡ Fun fact: I enjoy working on **creative projects** that blend technology with art!
-- 🏀 I enjoy playing sports, especially **basketball** and **volleyball**.
+- 🎓 Currently pursuing a **B.S. in Computer Information Systems** with a **Minor in Computer Science** at **[The University of Texas at Dallas](https://www.utdallas.edu/)**.  
+- 💡 I love to explore **new technologies** and constantly **sharpen my skills**.  
+- 🎯 My goal is to contribute to open-source projects and develop tools that make life easier for developers.  
+- ⚡ Fun fact: I enjoy working on **creative projects** that blend technology with art!  
+- 🏐 I enjoy playing sports, especially **volleyball**.  
 
 ## 🛠️ My Toolbox
 
