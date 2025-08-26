@@ -68,25 +68,6 @@
     <img alt="BibhasS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibhasS&langs_count=10&layout=compact&theme=algolia&custom_title=Most%20Used%20Languages" height="192px"/>
 </p>
 
-## 📊 GitHub Profile Stats
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="BibhasS' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BibhasS&show_icons=true&count_private=true&theme=algolia&custom_title=BibhasS'%20stats" height="192px"/></a>
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/BibhasS"><img alt="BibhasS' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=BibhasS&custom_title=BibhasS'%20Contribution%20Graph&theme=react-dark" /></a>
-  </p>
-</details>
-
-<br/>
 
 ## 🙋‍♀️ Let's Connect
 
