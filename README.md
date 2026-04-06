@@ -65,7 +65,6 @@
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=BibhasS&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     <br/><br/>
-    <img alt="BibhasS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BibhasS&langs_count=10&layout=compact&theme=algolia&custom_title=Most%20Used%20Languages" height="192px"/>
 </p>
 
 
