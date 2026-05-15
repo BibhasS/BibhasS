@@ -15,10 +15,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing a **B.S. in Computer Information Systems** with a **Minor in Computer Science** at **[The University of Texas at Dallas](https://www.utdallas.edu/)**.  
-- 💡 I love to explore **new technologies** and constantly **sharpen my skills**.  
+- 💡 I enjoy exploring new technologies like AI and constantly sharpening my skills.  
 - 🎯 My goal is to contribute to open-source projects and develop tools that make life easier for developers.  
-- ⚡ Fun fact: I enjoy working on **creative projects** that blend technology with art!  
-- 🏐 I enjoy playing sports, especially **volleyball**.  
+- 🚀 I like building practical projects that solve real problems and help me grow as a developer.  
+- 🏐 I enjoy playing sports, especially volleyball and basketball.  
 
 ## 🛠️ My Toolbox
 
@@ -31,6 +31,8 @@
     <a href="https://github.com/search?q=user%3ABibhasS+language%3Ac"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
     &emsp;
     <a href="https://github.com/search?q=user%3ABibhasS+language%3Acsharp"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
+    &emsp;
+    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 </p>
 
 ### Web Development
@@ -41,7 +43,11 @@
     &emsp;
     <a href="https://github.com/search?q=user%3ABibhasS+language%3Ajavascript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
     &emsp;
-    <a href="https://github.com/search?q=user%3ABibhasS+language%3Areact"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
+    <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
+    &emsp;
+    <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
+    &emsp;
+    <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
 </p>
 
 ### Tools & Technologies
@@ -57,18 +63,20 @@
     <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/></a>
     &emsp;
     <a href="https://www.netlify.com/"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" height="40"/></a>
+    &emsp;
+    <a href="https://vercel.com/"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40" height="40"/></a>
 </p>
 
-
-## 🔥 GitHub Stats
-
+### Files & Project Structures I Work With
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=BibhasS&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    <br/><br/>
+    <img src="https://img.shields.io/badge/TSX-React%20Components-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TSX" />
+    <img src="https://img.shields.io/badge/Expo%20Router-app%2F_layout.tsx-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo Router" />
+    <img src="https://img.shields.io/badge/Data%20Files-techniques.ts%20%7C%20timeline.ts%20%7C%20plans.ts-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="Data Files" />
+    <img src="https://img.shields.io/badge/Components-DuckCard%20%7C%20DuckButton%20%7C%20ScoreSlider-blue?style=flat-square&logo=react&logoColor=white" alt="Components" />
+    <img src="https://img.shields.io/badge/Docs-PLAN.md%20%7C%20CODEX.md%20%7C%20HANDOFF.md-lightgrey?style=flat-square&logo=markdown&logoColor=black" alt="Docs" />
 </p>
 
-
-## 🙋‍♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
 
 <p align="center">
     <a href="https://github.com/BibhasS"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
